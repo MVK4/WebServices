@@ -6,7 +6,7 @@ import com.jayway.restassured.response.Response;
 
 import static com.jayway.restassured.RestAssured.*;
 
-public class WheatherGetRequest {
+public class WeatherGetRequest {
 
 	@Test
 	public void Test_01() {
