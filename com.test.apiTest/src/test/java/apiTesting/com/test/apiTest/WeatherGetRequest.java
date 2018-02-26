@@ -25,7 +25,7 @@ public class WeatherGetRequest {
 		
 		System.out.println(resp2.statusCode());
 	}
-	
+	///
 	@Test
 	public void Test_03() {
 		
